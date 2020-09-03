@@ -1,0 +1,1 @@
+Once you clone the project. composer update to install the project dependencies. Once you start the laravel project using php artisan serve. http://127.0.0.1:8000/ will direct you to the 1st page of the project. Register as a student and will be directed to input the results per subjects
